@@ -1,3 +1,7 @@
+// Jeff McMillan 3-22-23 Binary Search Tree C++
+// This assignment is to implement a binary search tree in C++, 
+// in addition to a CLI for viewing and manipulating the contents of the tree.
+
 #include "types.h"
 #include <iostream>
 #include <cstdio>
